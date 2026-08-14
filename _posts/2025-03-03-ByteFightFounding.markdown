@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ByteFight @ GT"
-date: 2026-06-23 22:21:59 +00:00
+date: 2025-03-03 22:21:59 +00:00
 image: "/images/bytefight_logo.png"
 categories: project
 author: "ByteFight"
