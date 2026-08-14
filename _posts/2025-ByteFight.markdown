@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Integrating Adversarial Competitions in University Programming Education: An Experience Report"
-date:   2025-03-14 22:21:59 +00:00
+title: "Integrating Adversarial Competitions in University Programming Education: An Experience Report"
+date: 2025-03-14 22:21:59 +00:00
 image: /images/ByteFight-Board.png
 categories: research
 author: "Henry Liao"
