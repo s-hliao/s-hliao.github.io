@@ -2,7 +2,7 @@
 layout: post
 title: "Integrating Adversarial Competitions in University Programming Education: An Experience Report"
 date: 2026-06-23 22:21:59 +00:00
-image: /images/ByteFight-Board.png
+image: "/images/bfboard.png"
 categories: research
 author: "Henry Liao"
 authors: "<strong>Henry Liao*</strong>, Tyler Kwok*, Emmanuel Munoz, Pedro Guillermo Feijóo-García, Thad Starner, Abrahim Ladha"
