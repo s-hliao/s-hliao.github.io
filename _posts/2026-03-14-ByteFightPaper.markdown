@@ -10,4 +10,4 @@ venue: "ASEE Annual Conference & Exposition"
 paper: https://peer.asee.org/integrating-adversarial-competitions-in-university-programming-education-an-experience-report
 website: https://bytefight.org/home
 ---
-We implemented ByteFight as a live, scalable services for use as part of an existing graduate computer science course. We then conducted a study on student perceptions of learning when using the ByteFight competition as part of that course, with students reporting generally positive sentiment. ByteFight has since been used multiple times as part of Georgia Tech's computer science curriculum to teach applicable AI skills to graduate and undergraduate students.
+We implemented ByteFight as a live, scalable services for use as part of an existing graduate computer science course. ByteFight has since been used multiple times as part of Georgia Tech's computer science curriculum to teach AI development to graduate and undergraduate students.
