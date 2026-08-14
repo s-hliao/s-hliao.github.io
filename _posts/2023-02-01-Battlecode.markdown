@@ -9,4 +9,4 @@ code: https://github.com/georgezhang02/battlecode23
 website: https://battlecode.org/
 youtube: https://www.youtube.com/watch?v=oa4CAizd1Nk
 ---
-I lead a team of developers in competing in the month-long game AI competition MIT Battlecode. Finished 7th-8th in finals.
+I lead a team in competing in the month-long game AI competition MIT Battlecode. Finished 7th-8th in finals.
