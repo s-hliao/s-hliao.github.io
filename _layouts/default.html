@@ -119,6 +119,8 @@
               {% endif %}
               {% if post.youtube %}
               <a href="{{post.youtube}}">youtube</a> /
+              {% if post.poster %}
+              <a href="{{post.poster}}">poster</a> /
               {% endif %}
               <p></p>
               {{ post.excerpt }}
