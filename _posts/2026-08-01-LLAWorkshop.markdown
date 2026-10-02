@@ -11,4 +11,4 @@ paper: https://openreview.net/forum?id=L0liqik6s8
 poster: https://drive.google.com/file/d/1yFbiP4ruzen7rUilGvzgYv0SdvQVehp9/view?usp=sharing
 website: https://lla-control.github.io/
 ---
-Implemented the LLA-MPC framework for rapid adaptive system identification on embedded hardware. Includes a modular design with interchangeable vehicle dynamics and integrators. Validated on an F1Tenth with Fiala Tire Dynamics.
+Implemented the LLA-MPC framework for rapid adaptive system identification on embedded hardware. Includes a modular design with interchangeable vehicle dynamics and integrators. Validated on an F1Tenth with Fiala Tire dynamics.
