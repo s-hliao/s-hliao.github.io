@@ -2,7 +2,7 @@
 layout: post
 title: "LLA-MPC on Embedded Hardware: Rapid Adaptive Control with Thousands of Parallel Models"
 date: 2026-08-01 22:21:59 +00:00
-image: "/images/bfboard.png"
+image: "/images/irosworkshopvideo_small.gif"
 categories: research
 author: "Henry Liao"
 authors: "<strong>Henry Z. Liao*</strong>, Maitham F. Al-Sunni*, John Dolan"
