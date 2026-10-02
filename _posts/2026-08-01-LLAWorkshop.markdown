@@ -9,6 +9,7 @@ authors: "<strong>Henry Z. Liao*</strong>, Maitham F. Al-Sunni*, John Dolan"
 venue: "IROS Workshop: Sim2Real and Classical Control"
 paper: https://openreview.net/forum?id=L0liqik6s8
 poster: https://drive.google.com/file/d/1yFbiP4ruzen7rUilGvzgYv0SdvQVehp9/view?usp=sharing
+code: https://github.com/LLA-Control/LLA-MPC-embedded
 website: https://lla-control.github.io/
 ---
 Implemented the LLA-MPC framework for rapid adaptive system identification on embedded hardware. Includes a modular design with interchangeable vehicle dynamics and integrators. Validated on an F1Tenth with Fiala Tire dynamics.
