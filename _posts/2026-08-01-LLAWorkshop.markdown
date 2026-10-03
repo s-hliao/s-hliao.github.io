@@ -2,7 +2,7 @@
 layout: post
 title: "LLA-MPC on Embedded Hardware: Rapid Adaptive Control with Thousands of Parallel Models"
 date: 2026-08-01 22:21:59 +00:00
-image: "/images/irosworkshopvideo_small.gif"
+image: "/images/llaworkshop.gif"
 categories: research
 authors: "<strong>Henry Z. Liao*</strong>, Maitham F. Al-Sunni*, John Dolan"
 venue: "IROS Workshop: Sim2Real and Classical Control"

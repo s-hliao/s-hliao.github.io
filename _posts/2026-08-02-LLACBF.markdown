@@ -2,10 +2,11 @@
 layout: post
 title: "LBA-CBF: Rapidly Adaptive Safety Filters via Parallel Dynamics Inference"
 date: 2026-08-02 22:21:59 +00:00
-image: "/images/irosworkshopvideo_small.gif"
+image: "/images/llacbf.gif"
 categories: research
 authors: "Maitham F. AL-Sunni, Timeea-Andreea Radu, Hassan Almubarak, <strong>Henry Z. Liao</strong>, Michael Görner, Francesco Maurelli, John M. Dolan"
-venue: "IROS Workshop: Sim2Real and Classical Control"
+venue: "Under Review"
+paper: https://openreview.net/forum?id=L0liqik6s8
 code: https://github.com/LLA-Control/LLA-MPC-embedded
 website: https://lla-control.github.io/
 ---
