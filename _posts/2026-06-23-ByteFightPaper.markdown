@@ -4,7 +4,6 @@ title: "Integrating Adversarial Competitions in University Programming Education
 date: 2026-06-23 22:21:59 +00:00
 image: "/images/bfboard.png"
 categories: research
-author: "Henry Liao"
 authors: "<strong>Henry Z. Liao*</strong>, Tyler Kwok*, Emmanuel Munoz, Thad Starner, Pedro Guillermo Feijóo-García, Abrahim Ladha"
 venue: "ASEE Annual Conference & Exposition"
 paper: https://peer.asee.org/integrating-adversarial-competitions-in-university-programming-education-an-experience-report

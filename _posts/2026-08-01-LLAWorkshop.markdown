@@ -4,7 +4,6 @@ title: "LLA-MPC on Embedded Hardware: Rapid Adaptive Control with Thousands of P
 date: 2026-08-01 22:21:59 +00:00
 image: "/images/irosworkshopvideo_small.gif"
 categories: research
-author: "Henry Liao"
 authors: "<strong>Henry Z. Liao*</strong>, Maitham F. Al-Sunni*, John Dolan"
 venue: "IROS Workshop: Sim2Real and Classical Control"
 paper: https://openreview.net/forum?id=L0liqik6s8
