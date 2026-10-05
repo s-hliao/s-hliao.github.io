@@ -6,7 +6,7 @@ image: "/images/llaworkshop.gif"
 categories: research
 authors: "<strong>Henry Z. Liao*</strong>, Maitham F. Al-Sunni*, John Dolan"
 venue: "IROS Workshop: Sim2Real and Classical Control"
-paper: https://openreview.net/forum?id=L0liqik6s8
+paper: https://arxiv.org/abs/2610.03616
 poster: https://drive.google.com/file/d/1yFbiP4ruzen7rUilGvzgYv0SdvQVehp9/view?usp=sharing
 code: https://github.com/LLA-Control/LLA-MPC-embedded
 website: https://lla-control.github.io/
