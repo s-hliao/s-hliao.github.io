@@ -6,7 +6,7 @@ image: "/images/llacbf.gif"
 categories: research
 authors: "Maitham F. AL-Sunni, Timeea-Andreea Radu, Hassan Almubarak, <strong>Henry Z. Liao</strong>, Michael Görner, Francesco Maurelli, John M. Dolan"
 venue: "Under Review"
-paper: https://openreview.net/forum?id=L0liqik6s8
+paper: https://arxiv.org/pdf/2610.08765v1
 code: https://github.com/LLA-Control/LLA-MPC-embedded
 website: https://lla-control.github.io/
 ---
